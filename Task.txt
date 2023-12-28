@@ -1,0 +1,2 @@
+1)Setup a local server,which can take an input text and convert that to embedding and return that embedding back.
+2)These returned embeddings needs to be stored in Vector Database
